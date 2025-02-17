@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+OLD/
+Tract_iNat_data/
+
+# Ignore these large CSV files:
+all_completeness_HOLC_cities_2025.csv
+all_completeness_geoid_2025.csv
+
+# .OLD/
+# .all_completeness_HOLC_cities_2025.csv
+# .all_completeness_geoid_2025.csv
+# # all_completeness_HOLC_cities_2025.csv
