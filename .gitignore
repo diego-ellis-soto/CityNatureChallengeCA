@@ -9,8 +9,8 @@ Tract_iNat_data/
 # Ignore these large CSV files:
 all_completeness_HOLC_cities_2025.csv
 all_completeness_geoid_2025.csv
-Data/California_GBIF_iNat.parquet
-Data/calenviroscreen40gdb_F_2021.gdb
+California_GBIF_iNat.parquet
+calenviroscreen40gdb_F_2021.gdb
 # .OLD/
 # .all_completeness_HOLC_cities_2025.csv
 # .all_completeness_geoid_2025.csv
